@@ -1,0 +1,33 @@
+img{
+ width:390px;
+ height:199px;
+    }
+.name{
+    border-radius: 19px;
+    padding:10px;
+    color:red;
+    
+    }
+    .name2{
+    border-radius: 19px;
+    padding:10px;
+    color:blue;
+    
+    }
+    .name3{
+    border-radius:19px;
+    padding:9px;
+    color:white;
+    
+    }
+body{
+ background-color:#99ccff;
+ display:flex;
+ justify-content:center;
+    }
+.lol{
+    font-size: 14px;
+    font-family: Tahoma;
+    color:red;
+    }
+    
